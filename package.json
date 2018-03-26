@@ -1,6 +1,6 @@
 {
   "name": "markdown-it-anchorify",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Add page anchors to headers from markdown",
   "main": "anchorify.js",
   "scripts": {
