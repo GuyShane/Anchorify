@@ -1,0 +1,19 @@
+{
+  "name": "markdown-it-anchorify",
+  "version": "1.0.0",
+  "description": "Add page anchors to headers from markdown",
+  "main": "anchorify.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuyShane/Anchorify.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GuyShane/Anchorify/issues"
+  },
+  "homepage": "https://github.com/GuyShane/Anchorify#readme"
+}
